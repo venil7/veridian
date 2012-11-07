@@ -21,7 +21,7 @@ $(document).ready(function() {
     $('.scroll-pane').jScrollPane(
     {
         showArrows:false,
-        scrollbarWidth: 8,
+        scrollbarWidth: 12,
         scrollbarMargin: 40,
         scrollbarOnLeft: true
     });
