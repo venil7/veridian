@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+    <title>Veridian : About Us</title>
+    <!-- meta -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description" content="Veridian">
+    <meta name="keywords" content="Veridian">
+    <meta name="robots" content="index, follow">
+    <meta name="revisit-after" content="1 Week">
+    <!-- /meta -->
+    <!-- favicon -->
+    <link rel="Shortcut Icon" type="image/x-icon" href="/favicon.ico">
+    <!-- /favicon -->
+    <!-- js -->
+    <script type="text/javascript" src="js/jquery/jquery-1.4.2.min.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery-ui-1.8.custom.min.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.mousewheel.js"></script>
+    <script type="text/javascript" src="js/jquery/jquery.em.js"></script>
+    <script type="text/javascript" src="js/cufon/cufon-yui.js"></script>
+    <script type="text/javascript" src="js/cufon/colaborate.font.js"></script>
+    <script type="text/javascript" src="js/jscrollpane/jScrollPane.js"></script>
+    <!-- /js -->
+    <!-- css -->
+    <link rel="stylesheet" href="css/reset.css" media="all">
+    <link rel="stylesheet" href="css/main.css" media="screen">
+    <link rel="stylesheet" href="js/jscrollpane/jScrollPane.css">
+    <!-- /css -->
+
+    <!--[if lte IE 6]>
+    <link rel="stylesheet" type="text/css" media="screen, projection" href="css/ie6.css" />
+    <script type="text/javascript" src="js/dd_belated/dd_belated.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            DD_belatedPNG.fix('.png');
+        });
+    </script>
+    <![endif]-->    
+
+    <script type="text/javascript" src="js/veridian.js"></script>
+</head>
+<body>
+<div id="main-holder">
+    <div id="content-line-holder">
+        <div id="content-line-illustration" class="abs-wrap">           
+            <div id="content">
+                <img src="img/layout/veridian-logo.png" alt="Veridian Logo" width="132" height="22" class="png logo">
+                <div class="scroll-pane">
+                    <h1>About Us</h1>
+
+                    <p>Veridian Telecommunications Limited has evolved from being a small telecom provider with a niche-market-focus to a multi-platform supplier. We are also a major provider in the wholesale market, specialising in direct termination. With our proficient infrastructure, Veridian has the ability to offer clients fast and efficient service regardless of where the client is located.</p>
+                    <p>Veridian delivers on its quality control in technology and customer service as well as flexibility in regards to terms, operations and switching.</p>
+                    <p>Veridian is one of the fastest growing Wholesale VoIP Termination Service Providers, dedicated to providing cost effective VoIP services to customers by developing successful relations with top-tiers of the telecommunications sector and expanding co-operation with local carriers in any country of the world.</p>
+
+                    <h2>What We Do</h2>
+
+                    <p>Veridian specialises in enabling both new and traditional telephony providers and VoIP operators of any size benefit from the highest quality carrier-to-carrier communications connectivity anywhere in the world.</p>
+
+                    <h2>Services Overview</h2>
+                    <ul class="text">
+                        <li>Wholesale A-Z VoIP Termination</li>
+                        <li>VoIP Reseller services</li>
+                        <li>Pre-paid & Call Shop Solutions</li>
+                    </ul>
+
+                    <h2>Contact Us</h2>
+                    <p>If you would like to find out more about how Veridian can help you, please contact us today on <a class="js2" href="mailto:sales@veridiantel.com">sales@veridian.ie</a>.</p>
+                </div>    
+            </div>
+            <div id="menu" class="png">
+               <div class="abs-wrap">
+                   <div id="menu-about" class="menu-item active">
+                       <a href="javascript:;">About Us</a>
+                   </div>
+                   <div id="menu-consultancy" class="menu-item inactive">
+                       <a href="consultancy.html">Consultancy</a>
+                   </div>
+                   <div id="menu-carrier-services" class="menu-item inactive two-lines">
+                       <a href="carrier-services.html">Carrier<br>Services</a>
+                   </div>
+               </div>
+            </div>
+        </div>
+    </div>
+    <div id="email-holder">
+        <!-- +44 55 1234 5678<br> -->
+        <a class="js2" href="mailto:sales@veridian.ie">sales@veridian.ie</a>
+    </div>
+</div>
+</body>
+</html>
