@@ -11,6 +11,7 @@ ul.text li {color: #4e4e4e; list-style: disc; margin: 10px 0px 0px 40px;}
 #main-holder {background: url('../img/layout/body-highlight-bg.jpg') no-repeat top center; padding: 3% 0px;}
 #email-holder {width: 40%;  margin: 10px 0px 0px auto; padding: 0px 540px 2px 40px; color: #a55030; line-height: 180%;}
 #email-holder a {color: #a55030;}
+#email-holder p {line-height: 20px;margin:0px;}
 #content-line-holder {background: #e9e9e9 url('../img/layout/content-holder-bg.jpg') repeat-x bottom left; margin: 0;}
 #content-line-illustration {background: url('../img/layout/content-line-illustration.jpg') no-repeat right bottom; min-height: 550px; padding: 40px 0px;}
 #content {width: 40%; text-align: left; margin: 0px 0px 0px auto; padding: 0px 540px 0px 0px;}
@@ -19,7 +20,7 @@ ul.text li {color: #4e4e4e; list-style: disc; margin: 10px 0px 0px 40px;}
 .menu-item a {color: #000; text-decoration: none; font-size: 14px;}
 .menu-item.active a {color: #d35224; text-decoration: none; font-size: 22px;}
 .menu-item.active {margin-top: -3px;}
-.menu-item.two-lines.active {margin-top: -8px;}
+.menu-item.two-lines.active {margin-top: -10px;}
 #menu-about {top: 58px; left: 20px;}
 #menu-consultancy {top: 150px; left: -26px;}
 #menu-carrier-services {top: 240px; left: 20px;}

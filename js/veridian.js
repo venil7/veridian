@@ -3,7 +3,7 @@ $(document).ready(function() {
         function()
         {
             $(this).animate({fontSize: '22px'}, 100);
-            if($(this).parent().hasClass('two-lines')) $(this).parent().animate({marginTop: '-8px'}, 100);
+            if($(this).parent().hasClass('two-lines')) $(this).parent().animate({marginTop: '-10px'}, 100);
             else $(this).parent().animate({marginTop: '-3px'}, 100);
         },
         function()
