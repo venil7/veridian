@@ -21,7 +21,9 @@ ul.text li {color: #4e4e4e; list-style: disc; margin: 10px 0px 0px 40px;}
 .menu-item.active a {color: #d35224; text-decoration: none; font-size: 22px;}
 .menu-item.active {margin-top: -3px;}
 .menu-item.two-lines.active {margin-top: -10px;}
-#menu-about {top: 58px; left: 20px;}
-#menu-consultancy {top: 150px; left: -26px;}
-#menu-carrier-services {top: 240px; left: 20px;}
+#menu-about {top: 58px; left: 20px;} /*index*/
+#menu-consultancy {top: 150px; left: -26px;} /*carrier-services*/
+#menu-carrier-services {top: 240px; left: 20px;} /*about*/
 .scroll-pane {height: 500px;}
+blockquote {font-style:italic;}
+small {font-size: 12px;}
